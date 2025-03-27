@@ -1,0 +1,6 @@
+flask
+gunicorn
+sounddevice
+numpy
+speechrecognition
+edge-tts
